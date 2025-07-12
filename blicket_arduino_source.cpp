@@ -91,7 +91,7 @@ void loop() {
       if((sw_state0 == LOW)||(sw_state1 == LOW)||(sw_state2 == LOW)||(sw_state3 == LOW)||(sw_state4 == LOW)||(sw_state5 == LOW)) {
         delay(20);
         colorWipe1(strip1.Color(255,   255,   255), 1);    // white
-        colorWipe2(strip2.Color(2525,   255,   255), 1);    // white
+        colorWipe2(strip2.Color(255,   255,   255), 1);    // white
         colorWipe3(strip3.Color(255,   255,   255), 1);    // white
   
       }
