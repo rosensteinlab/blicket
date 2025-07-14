@@ -1,7 +1,7 @@
 
 ### An Open-Source Blicket Detector for Cognitive Science Research
 
-Hatem Mohamed<sup>1</sup>, Gabby Modesti<sup>2</sup>, David M. Sobel<sup>2</sup>, and Jacob K. Rosenstein<sup>1</sup>
+Hatem Mohamed<sup>1</sup>, Gabriella Modesti<sup>2</sup>, David M. Sobel<sup>2</sup>, and Jacob K. Rosenstein<sup>1</sup>
 
 <sup>1</sup> School of Engineering, Brown University, Providence, RI
 
@@ -16,7 +16,7 @@ https://github.com/rosensteinlab/blicket
 
 If you use or refer to this design, please cite it as:
 
-Hatem Mohamed, Gabby Modesti, David M. Sobel, and Jacob K. Rosenstein. “An Open-Source Blicket Detector for Cognitive Science Research.” School of Engineering and Department of Cognitive and Psychological Sciences, Brown University, 2025. Available at: https://github.com/rosensteinlab/blicket. DOI: 10.5281/zenodo.15880720
+Hatem Mohamed, Gabriella Modesti, David M. Sobel, and Jacob K. Rosenstein. “An Open-Source Blicket Detector for Cognitive Science Research.” School of Engineering and Department of Cognitive and Psychological Sciences, Brown University, 2025. Available at: https://github.com/rosensteinlab/blicket. DOI: 10.5281/zenodo.15880720
 
 [![DOI](https://zenodo.org/badge/878032683.svg)](https://doi.org/10.5281/zenodo.15880720)
 
