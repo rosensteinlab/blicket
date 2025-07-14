@@ -14,8 +14,6 @@ This project presents a practical, reprogrammable Blicket Detector designed to s
 All data, source code, and supporting files are available on the GitHub repository:
 https://github.com/rosensteinlab/blicket 
 
---------------------
-
 If you use or refer to this design, please cite it as:
 
 Hatem Mohamed, Gabby Modesti, David M. Sobel, and Jacob K. Rosenstein. “An Open-Source Blicket Detector for Cognitive Science Research.” School of Engineering and Department of Cognitive and Psychological Sciences, Brown University, 2024. Available at: https://github.com/rosensteinlab/blicket
